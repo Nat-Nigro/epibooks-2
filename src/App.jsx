@@ -8,6 +8,7 @@ import { Container } from "react-bootstrap";
 import BookList from "./components/BookList";
 
 import fantasy from "./data/fantasy.json";
+import CommentArea from "./components/CommentArea";
 
 function App() {
   return (
